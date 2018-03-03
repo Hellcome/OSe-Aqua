@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=OSe-Aqua
+Comment=Theme for elementary OS Loki
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=OSe-Aqua
+MetacityTheme=OSe-Aqua
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
