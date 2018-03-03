@@ -22,6 +22,14 @@ or
 
 $ gsettings set org.gnome.desktop.interface gtk-theme "OSe-Aqua"
 
+<h4>Uninstall?</h4>
+
+$ rm -R ~/.themes/OSe-Aqua
+
 <h1>Recommendations</h1>
 
 Icons - <a href="https://github.com/keeferrourke/la-capitaine-icon-theme">La Capitaine icon pack</a>
+
+
+
+<p align="center"> <h1>Enjoy !</h1></p>
