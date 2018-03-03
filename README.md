@@ -14,9 +14,9 @@ OSX like theme for elemntary OS Loki
 
 <h1>Install</h1>
 
-$ cd /usr/share/themes/ ; sudo git clone https://github.com/Hellcome/OSe-Aqua.git
+$  git clone https://github.com/Hellcome/OSe-Aqua.git ~/.themes/OSe-Aqua
 
-Set this theme for elementary tweaks 
+Set this theme for <a href="https://github.com/elementary-tweaks/elementary-tweaks">elemntary tweaks</a>
 
 or 
 
